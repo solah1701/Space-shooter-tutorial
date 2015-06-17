@@ -1,0 +1,7 @@
+Library/
+_ReSharper.Space shooter tutorial-csharp/
+packages/
+obj/
+TraceAndTestImpact.testsettings
+SpaceInvaders_Data/
+ProjectSettings/

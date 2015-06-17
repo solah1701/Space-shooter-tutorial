@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="7B374A1C-396C-38F1-5587-FD5526600EE1" ModuleId="Assembly-CSharp-vs" />
+  <Module PersistentId="B64AFAC7-7941-484D-BCF4-DC3F2C6E3EDE" ModuleId="TestProject" />
+  <Module PersistentId="1367870B-8159-40FA-B0AB-30B07B6BAFAD" ModuleId="UnityAssets" />
+  <Module PersistentId="110CC667-ECE0-43CF-B485-3D56ACC6E908" ModuleId="UnityAsset.Test" />
+</Modules>

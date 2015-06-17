@@ -1,0 +1,4 @@
+E:\Users\Public\Documents\Unity Projects\Space shooter tutorial\UnityAssets\bin\Debug\UnityAssets.dll
+E:\Users\Public\Documents\Unity Projects\Space shooter tutorial\UnityAssets\bin\Debug\UnityAssets.pdb
+E:\Users\Public\Documents\Unity Projects\Space shooter tutorial\UnityAssets\obj\Debug\UnityAssets.dll
+E:\Users\Public\Documents\Unity Projects\Space shooter tutorial\UnityAssets\obj\Debug\UnityAssets.pdb

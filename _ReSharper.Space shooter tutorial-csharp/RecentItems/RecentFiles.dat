@@ -1,0 +1,40 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_Mover.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_BGScroller.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_GameController.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_PlayerController.cs" caret="263" fromTop="12" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_WeaponController.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_DestroyByBoundary.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_DestroyByContact.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Done/d:Done_Scripts/f:Done_DestroyByTime.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByBoundary.cs" caret="147" fromTop="7" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByContact.cs" caret="141" fromTop="5" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByTime.cs" caret="223" fromTop="10" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Mover.cs" caret="86" fromTop="4" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:HighScoreInput.cs" caret="905" fromTop="33" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:RandomRotator.cs" caret="0" fromTop="0" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:EnemyController.cs" caret="440" fromTop="17" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:HighScore.cs" caret="1791" fromTop="56" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:GameController.cs" caret="2489" fromTop="48" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Button.cs" caret="22" fromTop="2" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Joystick.cs" caret="452" fromTop="14" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:PlayerController.cs" caret="750" fromTop="13" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:TouchManager.cs" caret="627" fromTop="25" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:RandomRotator.cs" caret="303" fromTop="12" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Mover.cs" caret="264" fromTop="11" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByTime.cs" caret="223" fromTop="10" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByBoundary.cs" caret="147" fromTop="7" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:DestroyByContact.cs" caret="89" fromTop="3" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:EnemyController.cs" caret="1192" fromTop="37" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:HighScoreInput.cs" caret="905" fromTop="33" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:GameController.cs" caret="3046" fromTop="29" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:HighScore.cs" caret="1084" fromTop="34" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Button.cs" caret="819" fromTop="24" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:Joystick.cs" caret="563" fromTop="19" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:PlayerController.cs" caret="750" fromTop="28" />
+    <File id="7B374A1C-396C-38F1-5587-FD5526600EE1/d:Assets/d:Scripts/f:TouchManager.cs" caret="627" fromTop="25" />
+  </RecentEdits>
+</RecentFiles>
